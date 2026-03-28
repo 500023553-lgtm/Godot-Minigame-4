@@ -1,3 +1,3 @@
 # Godot Minigame 4
 ## Devlog
-Write your Devlog here.
+The Difference between my Breakdown and the Breakdown, the professor drew was that my breakdownthere was only the essential idea of what a game would be built with. Like speed, position, hitbox, jump, points, and mesh. While the professors drawing of the breakdown of Godot Minigame 4 is that he added more on top of what i had which is Jump power throw power and the ball holding time. and it is the same for NPC he added more things on top of what i had as well. i realized that i left out special details to a game but only added all the basic esstentials to a game a person would think from thinking about a dodgeball game. The breakdown helps me understand to add more detaling things to the game 
