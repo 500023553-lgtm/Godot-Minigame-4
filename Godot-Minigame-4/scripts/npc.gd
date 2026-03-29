@@ -18,14 +18,13 @@ var xDir: float = 1.0
 
 
 # step 4: uncomment the function below
-"""
 func _ready() -> void:
 	contact_monitor = true
 	max_contacts_reported = 3
 	
 	ball = get_node("Ball")
 	ball._pickup()
-"""
+
 
 
 func _physics_process(delta: float) -> void:
@@ -62,11 +61,11 @@ func _throw_ball() -> void:
 
 
 # step 15: uncomment the function below
-"""
+"
 func _on_body_shape_entered(_body_rid: RID, body: Node, _body_shape_index: int, _local_shape_index: int) -> void:
-	if body is Ball:
-		_hitByBall()
-"""
+
+
+
 
 # step 16: create the _hitByBall() function below here
-	
+"
